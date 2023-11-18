@@ -1,4 +1,4 @@
-# OrdersBelt
+# Orders processing system
 C program created with Threads and MUTEX on Operational Systems lab class at Unisinos
 
 The program is based on the Producer and Consumer paradigm and it simulates the day of a store that takes orders through the app, website, and the actual store and ships them according to the type of shipping (standard or express).
